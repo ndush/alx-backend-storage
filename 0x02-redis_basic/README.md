@@ -12,6 +12,8 @@
 - [How to Use Redis With Python](https://intranet.alxswe.com/rltoken/7SluvFvgckwVgsvrfOf1CQ)
 
 ## Learning Objectives
+- Learn how to use redis for basic operations
+- Learn how to use redis as a simple cache
 
 ### General
 
